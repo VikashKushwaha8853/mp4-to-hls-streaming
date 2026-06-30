@@ -1,0 +1,6 @@
+input/
+output/
+logs/
+
+*.mp4
+*.ts
